@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name: Ian Hooper
+# Evergreen Login: hooian24
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 1
