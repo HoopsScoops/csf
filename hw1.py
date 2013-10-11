@@ -30,7 +30,7 @@ print solution2
 
 print "Problem 2 solution follows:"
 
-
+###Imports variables from the hw1_test frile for use        
 
 import hw1_test
 print hw1_test.a
@@ -48,6 +48,9 @@ print hw1_test.f
 ###
 
 print "Problem 3 solution follows:"
+
+###Uses the Variables imported earlier and solves a boolean operation
+ 
 
 print   ((hw1_test.a and hw1_test.b) or (not hw1_test.c) and not (hw1_test.d or hw1_test.e or hw1_test.f))
 
