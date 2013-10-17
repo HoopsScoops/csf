@@ -1,0 +1,8 @@
+# Graded by Alejandro Chavez
+# chaveza
+
+import lab2.py_n
+b = 0
+while (b<lab2.py_n)
+  print str "Hello World"
+  b = b + 1
